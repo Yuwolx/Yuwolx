@@ -81,8 +81,8 @@ If you want to know more about me,
 ## 🧑‍💻 Contact Me
 
 💬 Notion  
-<a href="https://massive-jury-352.notion.site/Sunwoo-Lim-16fc0ddcfbe98072bfcdd0438d6ca991?pvs=74" target="_blank">
-  <img src="https://img.shields.io/badge/Click%20to%20View-000000?style=flat-square&logo=Notion&logoColor=white" style="vertical-align: middle;"/>
+<a href="" target="_blank">
+  <img src="" style="vertical-align: middle;"/>
 </a>
 
 ---
@@ -91,6 +91,6 @@ If you want to know more about me,
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedduro&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuwolxx&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
