@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hyeok Jun%20Lim&fontSize=70&fontColor=black"/>
 
 ### 👋 Hi there! I'm Hyeok Jun
 A data analyst who solves problems with insight and empathy.  
