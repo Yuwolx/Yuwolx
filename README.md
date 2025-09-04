@@ -9,6 +9,8 @@ A data analyst who solves problems with insight and empathy.
 If you want to know more about me,  
 ✨ Click the Notion badge below!
 
+[![Programmers](https://img.shields.io/badge/Programmers-Profile-blue?logo=code)](https://school.programmers.co.kr/users/Yuwol)
+
 </div>
 
 ---
