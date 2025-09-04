@@ -5,7 +5,6 @@
 ### 👋 Hi, I'm Hyeok Jun  
 Data Analyst who turns data into insight & impact.  
 
-[![Programmers](https://img.shields.io/badge/Programmers-Profile-blue?logo=code)](https://school.programmers.co.kr/users/Yuwol)
 
 </div>
 
@@ -37,6 +36,8 @@ Data Analyst who turns data into insight & impact.
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
 
 <div align="center">
+
+[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20Badge-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yuwolxx)
 
 [![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwns199)](https://solved.ac/profile/gurwns199)
 
