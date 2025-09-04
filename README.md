@@ -36,6 +36,12 @@ Data Analyst who turns data into insight & impact.
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
 
+<div align="center">
+
+[![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwns199)](https://solved.ac/profile/gurwns199)
+
+</div>
+
 ---
 
 ## 💼 Projects
