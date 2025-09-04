@@ -38,7 +38,7 @@ Data Analyst who turns data into insight & impact.
 <div align="center">
 
 [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20Badge-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yuwolxx)
-
+<img src="./image/hackerrank_sql.png" alt="HackerRank SQL Badge" width="120"/>
 [![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwns199)](https://solved.ac/profile/gurwns199)
 
 </div>
