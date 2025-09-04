@@ -35,13 +35,32 @@ Data Analyst who turns data into insight & impact.
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
 
-<div align="center">
+---
 
-[![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20Badge-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/yuwolxx)
-<img src="./image/hackerrank_sql.png" alt="HackerRank SQL Badge" width="120"/>
-[![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwns199)](https://solved.ac/profile/gurwns199)
+## 🏅 Algorithm Badges
+
+<div align="left">
+
+<!-- 해커랭크 캡쳐 이미지 -->
+<img src="./image/hackerrank_sql.png" alt="HackerRank SQL Badge" height="110"/>
+
+<!-- 해커랭크 텍스트 뱃지 -->
+<a href="https://www.hackerrank.com/yuwolxx">
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20Badge-2EC866?logo=hackerrank&logoColor=white" height="30"/>
+</a>
+
+
+&nbsp;&nbsp;
+
+<!-- 백준 티어 뱃지 -->
+<a href="https://solved.ac/profile/gurwns199">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwns199" height="100"/>
+</a>
 
 </div>
+
+
+
 
 ---
 
