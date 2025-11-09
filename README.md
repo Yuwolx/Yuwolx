@@ -44,10 +44,16 @@ Data Analyst who turns data into insight & impact.
 <!-- 해커랭크 캡쳐 이미지 -->
 <img src="./image/hackerrank_sql.png" alt="HackerRank SQL Badge" height="110"/>
 
+<!-- 해커랭크 캡쳐 이미지 -->
+<img src="./image/hackerrank_rank.PNG" alt="HackerRank SQL Badge" height="110"/>
+
 <!-- 해커랭크 텍스트 뱃지 -->
 <a href="https://www.hackerrank.com/yuwolxx">
   <img src="https://img.shields.io/badge/HackerRank-SQL%20Badge-2EC866?logo=hackerrank&logoColor=white" height="30"/>
 </a>
+
+
+
 
 
 &nbsp;&nbsp;
