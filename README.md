@@ -58,11 +58,6 @@ Data Analyst who turns data into insight & impact.
 
 &nbsp;&nbsp;
 
-<!-- 백준 티어 뱃지 -->
-<a href="https://solved.ac/profile/gurwns199">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gurwns199" height="100"/>
-</a>
-
 </div>
 
 
