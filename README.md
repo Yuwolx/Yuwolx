@@ -37,7 +37,7 @@ Data Analyst who turns data into insight & impact.
 
 ---
 
-## 🏅 Algorithm Badges
+## 🏅 Badges
 
 <div align="left">
 
