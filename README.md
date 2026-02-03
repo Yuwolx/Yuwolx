@@ -76,6 +76,4 @@ Data Analyst who turns data into insight & impact.
 ## 📊 GitHub Stats
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuwolxx&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
