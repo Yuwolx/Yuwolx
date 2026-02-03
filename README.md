@@ -42,9 +42,6 @@ Data Analyst who turns data into insight & impact.
 <div align="left">
 
 <!-- 해커랭크 캡쳐 이미지 -->
-<img src="./image/hackerrank_sql.png" alt="HackerRank SQL Badge" height="110"/>
-
-<!-- 해커랭크 캡쳐 이미지 -->
 <img src="./image/hackerrank_rank.PNG" alt="HackerRank SQL Badge" height="110"/>
 
 <!-- 해커랭크 텍스트 뱃지 -->
