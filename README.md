@@ -1,95 +1,44 @@
+# 권혁준
 
-<div align="center">
+데이터로 업무의 문제를 확인하고, 필요한 도구를 만들어 실제 운영에 적용합니다.
 
-## 👋 Hyeok Jun  
-**Data Analyst focused on structure, flow, and decision impact**
+대학 취업지원부서에서 상담사업의 참여 현황 관리, 수당 정산, 결과보고를 담당하고 있습니다. 반복적인 자료 수집과 대조에는 AI 코딩 도구를 활용하며, 업무 기준을 정하고 결과를 원자료와 비교하는 일은 직접 합니다.
 
-</div>
+## Selected projects
 
+### [LAYOUTNEMO](https://github.com/Yuwolx/LAYOUTNEMO)
 
----
+생각과 업무를 카드로 배치하고 관계를 연결하는 시각적 작업 공간입니다. 업무를 목록으로만 관리할 때 맥락과 연결 관계를 놓치는 문제에서 출발했습니다.
 
-## 🧠 About Me
-- 📊 Analyze user behavior & revenue structure to support real business decisions  
-- 🧩 Design decision frameworks beyond simple dashboards  
-- 🏗 Understand data pipelines & service architecture (SSAFY Data Track)  
-- 🎓 Double major in Administration & Economics (Statistics & Econometrics)
+- 역할: 서비스 기획, 화면 설계, AI 코딩 도구를 활용한 제작과 검증
+- 기술: TypeScript, React, React Flow
+- [서비스 보기](https://v0-layout-ui-concept.vercel.app)
 
----
+### [기상 합의 · 앙상블 날씨](https://github.com/Yuwolx/weather-ensemble)
 
-## 🛠 Tech Stacks
+여러 예보 모델의 값을 한 화면에서 비교하고, 예보의 차이를 확률 분포로 보여 주는 날씨 대시보드입니다.
 
-### 📊 Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+- 역할: 문제 정의, 정보 구조와 화면 설계, AI 코딩 도구를 활용한 제작과 검증
+- 기술: JavaScript, Open-Meteo API, PWA
+- [서비스 보기](https://yuwolx.github.io/weather-ensemble/)
 
-### 🏗 Data & Engineering
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
-![Flink](https://img.shields.io/badge/Flink-E6526F?logo=apacheflink&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### [Plys](https://github.com/Yuwolx/Plys)
 
-### 🤝 Collaboration & Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+음악과 영상을 여러 출처에서 수집해 플레이리스트와 앨범 커버를 만드는 팀 프로젝트입니다.
 
----
+- 역할: 데이터 수집·정제, 출처별 식별자 연결, AI·데이터 파트 리딩
+- 결과: 곡 약 45,450건과 영상 약 42,729건을 연결해 서비스 데이터로 제공
+- 기술: Python, TypeScript, Last.fm API, YouTube API
 
-## 💼 Projects
+## How I work
 
-### 🔹 Customer Loyalty Analysis (Real Business Data)
-- RFM segmentation & revenue structure diagnosis  
-- Re-purchase simulation & executive presentation  
+- 사용자의 행동과 업무 기록에서 문제를 찾습니다.
+- AI가 작성한 코드는 원자료와 예상 사례로 검증합니다.
+- 반복 작업을 줄인 시간은 예외 판단과 결과 확인에 사용합니다.
+- 실제로 운영할 수 있는지까지 확인한 뒤 작업을 마칩니다.
 
-### 🔹 GOR – Context-based Recommendation Service
-- Real-time & batch data architecture  
-- Weight-based recommendation logic + chatbot input  
-- Kafka / Spark / Elasticsearch integration  
+## Skills
 
-### 🔹 Large-scale E-commerce Log Analysis
-- 20M+ row SQL processing  
-- Behavior flow reconstruction & domain inference  
-
-### 🔹 Airline Recommendation Dashboard
-- Multi-metric scoring framework  
-- Interactive Tableau decision dashboard  
-
-### 🔹 Music Chart Trend Analysis (17 Years)
-- Selenium-based data crawling  
-- Long-term vs short-term trend interpretation  
-
-### 🔹 AI Quiz Service (PM)
-- Article → AI → Quiz → Log data flow design  
-- GitHub OAuth & Docker environment setup  
-
-### 🔹 Eggit – GitHub Activity Automation
-- GitHub data → automated blog generation  
-- FastAPI, React, Docker, EC2  
-
-### 🔹 LAYOUTNEMO – Visual Task Manager
-- Canvas-based task visualization tool  
-- Front-end implementation & deployment
-  
----
-
-## 🏅 Badges
-
-<img src="./image/hackerrank_rank.PNG" alt="HackerRank SQL Badge" height="110"/>
-<a href="https://www.hackerrank.com/yuwolxx">
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Badge-2EC866?logo=hackerrank&logoColor=white"/>
-</a>
-
----
-
-## 📈 Currently Exploring
-- End-to-end decision pipeline design  
-- Data-driven product thinking  
-- Scalable data architecture
-
+- 데이터 분석: SQL, Python, Pandas, DuckDB, Tableau
+- 데이터 처리 경험: Kafka, Flink, Spark, Airflow
+- 협업과 제작: Git, GitHub, Figma, AI coding agents
