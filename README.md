@@ -11,7 +11,7 @@
 생각과 업무를 카드로 배치하고 관계를 연결하는 시각적 작업 공간입니다. 업무를 목록으로만 관리할 때 맥락과 연결 관계를 놓치는 문제에서 출발했습니다.
 
 - 역할: 서비스 기획, 화면 설계, AI 코딩 도구를 활용한 제작과 검증
-- 기술: TypeScript, React, React Flow
+- 기술: TypeScript, React
 - [서비스 보기](https://v0-layout-ui-concept.vercel.app)
 
 ### [기상 합의 · 앙상블 날씨](https://github.com/Yuwolx/weather-ensemble)
