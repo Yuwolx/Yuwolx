@@ -1,97 +1,116 @@
-# 권혁준
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Kwon%20Hyeokjun&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=data%20%E2%80%A2%20automation%20%E2%80%A2%20product&descSize=20&descAlignY=60" width="100%"/>
+</p>
 
-데이터와 AI를 활용해 직접 쓸 수 있는 서비스를 만드는 개발자입니다.
+<p align="center">
+  <a href="https://github.com/Yuwolx">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=24C6DC&center=true&vCenter=true&width=640&lines=Turning+messy+operations+into+clean+data.;Building+the+tools+my+work+actually+needs.;AI+writes+the+code.+I+verify+every+number.;Shipping+it+to+production%2C+not+just+a+demo." alt="Typing SVG"/>
+  </a>
+</p>
 
-데이터 분석에서 출발해 수집·처리 구조와 서비스 개발로 관심을 넓혀 왔습니다. 서비스 기획과 화면 설계, AI 코딩 도구를 활용한 제작을 함께 하며, 설계 선택과 동작 검증을 중요하게 생각합니다.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuwolx&label=PROFILE%20VIEWS&color=302b63&style=for-the-badge"/>
+  <a href="https://github.com/Yuwolx?tab=followers"><img src="https://img.shields.io/github/followers/Yuwolx?label=FOLLOWERS&style=for-the-badge&color=24c6dc&labelColor=0f0c29"/></a>
+  <a href="https://www.hackerrank.com/yuwolxx"><img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0f0c29"/></a>
+</p>
 
-## Selected projects
+<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+## `> whoami`
 
-### [LAYOUTNEMO](https://github.com/Yuwolx/LAYOUTNEMO)
+```python
+class Yuwolx:
+    name     = "Kwon Hyeokjun"
+    role     = "Data & Operations @ University Career Center"
+    mission  = "Find the problem in the data, build the tool, run it for real."
 
-생각과 업무를 카드로 배치하고 관계를 연결하는 시각적 작업 공간입니다. 업무를 목록으로만 관리할 때 맥락과 연결 관계를 놓치는 문제에서 출발했습니다.
+    daily_work = [
+        "participation tracking for career-counseling programs",
+        "allowance settlement & result reporting",
+        "automating repetitive collection and cross-checking with AI coding tools",
+    ]
 
-- 역할: 서비스 기획, 화면 설계, AI 코딩 도구를 활용한 제작과 검증
-- 기술: TypeScript, React
-- [서비스 보기](https://v0-layout-ui-concept.vercel.app)
+    principles = {
+        "source":    "start from user behavior and work logs",
+        "trust":     "AI-written code is verified against raw data",
+        "time":      "hours saved go into edge cases and final checks",
+        "done":      "done means it runs in production",
+    }
 
-### [기상 합의 · 앙상블 날씨](https://github.com/Yuwolx/weather-ensemble)
+    certificate = "SQLD"
+    solved      = "130+ SQL & Python problems (Programmers SQL all 106, LeetCode 28)"
+```
 
-여러 예보 모델의 값을 한 화면에서 비교하고, 예보의 차이를 확률 분포로 보여 주는 날씨 대시보드입니다.
+<!-- ═══════════════════════════  PROJECTS  ═══════════════════════════ -->
+## `> ls ./featured`
 
-- 역할: 문제 정의, 정보 구조와 화면 설계, AI 코딩 도구를 활용한 제작과 검증
-- 기술: JavaScript, Open-Meteo API, PWA
-- [서비스 보기](https://yuwolx.github.io/weather-ensemble/)
+| | Project | What it does | Built with |
+|:-:|---|---|---|
+| 🧩 | **[LAYOUTNEMO](https://github.com/Yuwolx/LAYOUTNEMO)** · [live ↗](https://v0-layout-ui-concept.vercel.app) | A visual workspace: lay out thoughts and tasks as cards, then wire up how they connect. | TypeScript · React |
+| 🌦️ | **[Weather Ensemble](https://github.com/Yuwolx/weather-ensemble)** · [live ↗](https://yuwolx.github.io/weather-ensemble/) | Puts multiple forecast models side by side and shows their disagreement as a probability distribution. | JavaScript · Open-Meteo · PWA |
+| 🎧 | **[Plys](https://github.com/Yuwolx/Plys)** | Team project. Collected and linked **~45,450 tracks** and **~42,729 videos** across sources to generate playlists and album art. I led the AI & data part. | Python · TypeScript · Last.fm · YouTube API |
 
-### [Plys](https://github.com/Yuwolx/Plys)
+<details>
+<summary><b>📂 more analysis & service projects</b></summary>
+<br/>
 
-음악과 영상을 여러 출처에서 수집해 플레이리스트와 앨범 커버를 만드는 팀 프로젝트입니다.
+| Project | Highlights |
+|---|---|
+| Customer Loyalty Analysis | RFM segmentation, repurchase simulation, presented to the client company |
+| GOR | Real-time + batch data pipeline, weighted recommendation for Han River parks |
+| Large-scale E-commerce Log Analysis | **20M** behavior logs analyzed, domain inference |
+| Airline Recommendation Dashboard | Personalized picks by price, delay rate and flight frequency |
+| Music Chart Trend Analysis | **17 years** of charts scraped, short and long-term trend analysis |
+| AI Quiz Service | News article → quiz → learning history flow |
+| Eggit | Turns GitHub activity into a dev journal, planned and deployed |
 
-- 역할: 데이터 수집·정제, 출처별 식별자 연결, AI·데이터 파트 리딩
-- 결과: 곡 약 45,450건과 영상 약 42,729건을 연결해 서비스 데이터로 제공
-- 기술: Python, TypeScript, Last.fm API, YouTube API
+</details>
 
-## More projects
+<!-- ═══════════════════════════  STACK  ═══════════════════════════ -->
+## `> cat stack.yml`
 
-### Data analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,postgres,kafka,elasticsearch,docker,ts,js,react,vercel,git,github,notion&theme=dark&perline=12" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
-- Customer Loyalty Analysis: RFM 고객 세분화, 재구매 시뮬레이션, 기업 발표
-- Large-scale E-commerce Log Analysis: 2,000만 건 행동 로그 분석과 도메인 추론
-- Airline Recommendation Dashboard: 가격·지연율·운항횟수 기반 맞춤 추천 대시보드
-- Music Chart Trend Analysis: 17개년 차트 수집과 장·단기 추세 분석
+<!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
+## `> git log --stat`
 
-### Services
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuwolx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuwolx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&langs_count=6" height="165"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Yuwolx&theme=tokyonight&hide_border=true&background=0f0c29&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" height="165"/>
+</p>
 
-- GOR: 실시간·배치 데이터 구조와 가중치 기반 한강공원 추천
-- AI Quiz Service: 기사에서 퀴즈와 학습 기록으로 이어지는 서비스 기획
-- Eggit: GitHub 활동을 개발 기록으로 바꾸는 서비스 기획·배포
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuwolx/Yuwolx/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yuwolx/Yuwolx/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yuwolx/Yuwolx/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
-## How I build
+<!-- ═══════════════════════════  NOW  ═══════════════════════════ -->
+## `> tail -f ./exploring.log`
 
-- 사용자의 행동과 데이터에서 해결할 문제를 찾습니다.
-- 데이터 수집부터 서비스에 전달되는 흐름까지 설계합니다.
-- AI 코딩 도구를 활용하고, 처리 기준과 예상 사례에 따라 동작을 검증합니다.
-- 반복 작업을 자동화하고, 예외 처리와 결과 확인에 시간을 씁니다.
-- 실제 사용 환경에서 동작하는지 확인합니다.
+```diff
++ end-to-end decision pipeline design
++ data-driven product thinking
++ scalable data architecture
+```
 
-## Tech stacks
-
-### Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-
-### Data & Engineering
-
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
-![Flink](https://img.shields.io/badge/Flink-E6526F?logo=apacheflink&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-### Collaboration & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-
-## SQL practice and credentials
-
-- SQLD 취득
-- 프로그래머스 SQL 전 레벨 106제와 LeetCode 28제를 포함해 SQL·Python 문제 130제 이상 풀이
-- [문제풀이 저장소](https://github.com/Yuwolx/Yuwol-python_SQL-problem)
-
-<img src="./image/hackerrank_rank.PNG" alt="HackerRank SQL Badge" height="110"/>
-<a href="https://www.hackerrank.com/yuwolxx">
-  <img src="https://img.shields.io/badge/HackerRank-SQL%20Badge-2EC866?logo=hackerrank&logoColor=white"/>
-</a>
-
-## Currently exploring
-
-- End-to-end decision pipeline design
-- Data-driven product thinking
-- Scalable data architecture
+<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</p>
