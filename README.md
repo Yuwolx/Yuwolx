@@ -73,6 +73,7 @@ class Yuwolx:
   <img src="https://skillicons.dev/icons?i=py,postgres,kafka,elasticsearch,docker,ts,js,react,vercel,git,github,notion&theme=dark&perline=12" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -80,6 +81,22 @@ class Yuwolx:
   <img src="https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+<!-- ═══════════════════════════  BADGES  ═══════════════════════════ -->
+## `> ls ./badges`
+
+<p align="center">
+  <a href="https://www.hackerrank.com/yuwolxx"><img src="./image/hackerrank_sql_badge.png" height="120" alt="HackerRank SQL 5 stars"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/yuwolxx"><img src="./image/hackerrank_rank.PNG" height="70" alt="HackerRank SQL 58/58 solved"/></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLD-certified-24c6dc?style=for-the-badge&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/HackerRank_SQL-58%2F58_solved-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0f0c29"/>
+  <a href="https://github.com/Yuwolx/Yuwol-python_SQL-problem"><img src="https://img.shields.io/badge/Programmers_SQL-106%2F106-302b63?style=for-the-badge&labelColor=0f0c29"/></a>
+  <a href="https://github.com/Yuwolx/Yuwol-python_SQL-problem"><img src="https://img.shields.io/badge/LeetCode-28_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29"/></a>
 </p>
 
 <!-- ═══════════════════════════  STATS  ═══════════════════════════ -->
